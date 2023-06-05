@@ -1,0 +1,47 @@
+[
+  {
+    "_id": 200,
+    "_title": "El ingenioso hidalgo Don Quijote de la Mancha",
+    "_description": "Una novela de Miguel de Cervantes"
+  },
+  {
+    "_borrowed": true,
+    "_id": 201,
+    "_title": "Cien años de soledad",
+    "_description": "Una novela de Gabriel García Márquez",
+    "_type": 2
+  },
+  {
+    "_borrowed": true,
+    "_id": 202,
+    "_title": "One Piece",
+    "_description": "Una historia de Eechiro Oda",
+    "_type": 2
+  },
+  {
+    "_id": 203,
+    "_title": "Cenicienta",
+    "_description": "Una novela de Disney",
+    "_type": 1
+  },
+  {
+    "_borrowed": true,
+    "_id": 204,
+    "_title": "El hombre que leña",
+    "_description": "Una novela de Shakespeare",
+    "_type": 1
+  },
+  {
+    "_borrowed": true,
+    "_id": 205,
+    "_title": "Naruto",
+    "_description": "Una historia de Naruto",
+    "_type": 2
+  },
+  {
+    "_id": 206,
+    "_title": "La Ciudad de las Bestias",
+    "_description": "Una novela de Isabel Allende",
+    "_type": 1
+  }
+]

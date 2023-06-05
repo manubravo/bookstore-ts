@@ -1,0 +1,65 @@
+[
+  {
+    "title": "The Hobbit",
+    "description": "J.R.R. Tolkien",
+    "borrowed": false,
+    "id": 200,
+    "type": 2
+  },
+  {
+    "title": "The Lord of the Rings",
+    "description": "J.R.R. Tolkien",
+    "borrowed": false,
+    "id": 201,
+    "type": 3
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "description": "J.D. Salinger",
+    "borrowed": false,
+    "id": 202,
+    "type": 1
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "description": "Harper Lee",
+    "borrowed": false,
+    "id": 203,
+    "type": 1
+  },
+  {
+    "title": "1984",
+    "description": "George Orwell",
+    "borrowed": false,
+    "id": 204,
+    "type": 2
+  },
+  {
+    "title": "The Great Gatsby",
+    "description": "F. Scott Fitzgerald",
+    "borrowed": false,
+    "id": 205,
+    "type": 1
+  },
+  {
+    "title": "Star Wars",
+    "description": "George Lucas",
+    "borrowed": true,
+    "id": 206,
+    "type": 2
+  },
+  {
+    "title": "Harry Potter",
+    "description": "J.K. Rowling",
+    "borrowed": true,
+    "id": 207,
+    "type": 2
+  },
+  {
+    "title": "La ciudad de las Bestias",
+    "description": "Isabel Allende",
+    "borrowed": false,
+    "id": 208,
+    "type": 3
+  }
+]

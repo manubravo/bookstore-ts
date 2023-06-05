@@ -1,0 +1,6 @@
+200, El ingenioso hidalgo Don Quijote de la Mancha, Una novela de Miguel de Cervantes, false, 3
+201, Cien años de soledad, Una novela de Gabriel García Márquez, true, 2
+202, One Piece, Una historia de Eechiro Oda, true, 2
+203, Cenicienta, Una novela de Disney, false, 1
+204, El hombre que leña, Una novela de Shakespeare, true, 1
+205, Naruto, Una historia de Naruto, true, 2
